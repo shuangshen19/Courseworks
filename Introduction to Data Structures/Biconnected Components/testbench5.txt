@@ -1,0 +1,2 @@
+﻿testbench 1:
+(a,d)、(a,e)、(a,b)、(a,c)、(b,c)、(c,f)、(c,g)

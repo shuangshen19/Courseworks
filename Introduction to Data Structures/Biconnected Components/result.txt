@@ -1,0 +1,16 @@
+Test1:
+articulation point: c
+biconnected components: {a,c,e}{b,c,d,f}{c,g}
+
+Test2:
+articulation point: d e g h
+biconnected components: {a,d}{b,e}{c,e}{d,f,g,i}{e,h,j}{g,h}
+
+Test3:
+articulation point: c e f
+biconnected components: {a,b,c}{c,d,e,h}{f,g,i}{e,f}
+
+Test4:
+articulation point: a b g
+biconnected components: {b,c,f}{a,d,e,g}{g,h,i,j}{a,b}
+

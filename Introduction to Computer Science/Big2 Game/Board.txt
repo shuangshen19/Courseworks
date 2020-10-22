@@ -1,0 +1,8 @@
+Player1	13
+Player2	13
+Player3	13
+Player4	13
+Hand	D-1,C-3,D-5,H-5,H-7,H-8,C-8,S-9,H-10,D-11,C-12,C-13,H-13
+Type	2
+MustContain	C-3
+Current	None

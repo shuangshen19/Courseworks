@@ -1,0 +1,2 @@
+testbench 2 :
+(a,d)、(d,f)、(d,g)、(f,i)、(g,i)、(g,h)、(h,j)、(h,e)、(e,j)、(e,b)、(e,c)
